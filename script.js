@@ -1,5 +1,5 @@
 /**
- * 1. Find the area of a triangle
+ * 1. Find the area of a triangle 
  * Formula: Area = base * height / 2
  */
 const areaTriangle = (base, height) => (base * height) / 2;
